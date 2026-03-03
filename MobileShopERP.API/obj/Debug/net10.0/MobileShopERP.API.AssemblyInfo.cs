@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MobileShopERP.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d8d61ee3e37b8ae5600d0dda97d7fccfdf71250")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10b8a8d93c625c8089f494bd02e162a8e23575b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("MobileShopERP.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MobileShopERP.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
